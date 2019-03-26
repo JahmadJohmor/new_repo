@@ -5,7 +5,7 @@ public class T10 {
 	public static void main(String[] args) {
 	
 		
-		String pvm = "11021966"; 
+		String pvm = "110219662"; 
 		String pv = pvm.substring(0,2); 
 		String kk = pvm.substring(2,4); 
 		String vv = pvm.substring(4,8);
