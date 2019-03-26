@@ -29,7 +29,9 @@ public class T18 {
 		// f2 on alikansio apu1
 		String filelist[] = new String[2];
 		filelist = f2.list();
-		
+
+
+
 		String absPath = f2.getAbsolutePath();
 		System.out.println("Tulostetaan tiedostolistaus");
 		System.out.println("PATH: " + absPath);
